@@ -8,8 +8,6 @@ I believe in lifelong learning and embrace opportunities both through formal edu
 
 ## My Favorite Tools and Technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
-
 <table>
   <tr>
     <td align="center" width="96">
