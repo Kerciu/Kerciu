@@ -8,7 +8,9 @@ I believe in lifelong learning and embrace opportunities both through formal edu
 
 ## My Favorite Tools and Technologies ⚙️
 
-<table>
+### Languages 🌐
+
+<table style="justify-content: center;">
   <tr>
     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="65" height="65"/>
@@ -31,17 +33,16 @@ I believe in lifelong learning and embrace opportunities both through formal edu
       <br>SQL
     </td>
     <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65"/>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65"/>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65"/>
       <br>JavaScript
     </td>
+  </tr>
+</table>
+
+### Frameworks 🛠️
+
+<table style="justify-content: center;">
+  <tr>
     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/>
       <br>Bootstrap
@@ -49,6 +50,21 @@ I believe in lifelong learning and embrace opportunities both through formal edu
     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
       <br>Node.js
+    </td>
+  </tr>
+</table>
+
+### Technologies 🖥️
+
+<table style="justify-content: center;">
+  <tr>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65"/>
+      <br>CSS
     </td>
     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="65" height="65"/>
