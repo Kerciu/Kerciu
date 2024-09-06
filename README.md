@@ -39,9 +39,25 @@ I believe in lifelong learning and embrace opportunities both through formal edu
       <br>CSS
     </td>
     <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/>
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="65" height="65"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="65" height="65"/>
+      <br>Windows
+    </td>      
   </tr>
 </table>
 
