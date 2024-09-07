@@ -4,8 +4,6 @@
 
 Passionate Computer Science student at **Warsaw University of Technology** 🎓, driven by a love for technology and continuous learning. My journey in tech involves exploring diverse programming languages, delving into software engineering advancements, and tackling complex problem-solving challenges. 💡
 
-I believe in lifelong learning and embrace opportunities both through formal education and self-driven projects. In addition to my technical pursuits, I am fluent in English, have intermediate proficiency in Japanese, am conversant in German, and have recently started studying French. Outside of tech, I maintain a balanced lifestyle with a focus on physical fitness, hitting the gym regularly. 🏋️‍♂️
-
 ## My Favorite Tools and Technologies ⚙️
 
 ### Languages 🌐
