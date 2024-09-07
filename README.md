@@ -36,6 +36,14 @@ I believe in lifelong learning and embrace opportunities both through formal edu
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65"/>
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65"/>
+      <br>CSS
+    </td>
   </tr>
 </table>
 
@@ -59,12 +67,12 @@ I believe in lifelong learning and embrace opportunities both through formal edu
 <table style="justify-content: center;">
   <tr>
     <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65"/>
-      <br>HTML
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65"/>
+      <br>MySQL
     </td>
     <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65"/>
-      <br>CSS
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="65" height="65"/>
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="65" height="65"/>
