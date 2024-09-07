@@ -6,86 +6,11 @@ Passionate Computer Science student at **Warsaw University of Technology** 🎓,
 
 ## My Favorite Tools and Technologies ⚙️
 
-### Languages 🌐
-
-<table style="justify-content: center;">
-  <tr>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="65" height="65"/>
-      <br>C
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="65" height="65"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65" height="65"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65"/>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65"/>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65"/>
-      <br>CSS
-    </td>
-  </tr>
-</table>
-
-### Frameworks 🛠️
-
-<table style="justify-content: center;">
-  <tr>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
-      <br>Node.js
-    </td>
-  </tr>
-</table>
-
-### Technologies 🖥️
-
-<table style="justify-content: center;">
-  <tr>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="65" height="65"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="65" height="65"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="65" height="65"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="65" height="65"/>
-      <br>Windows
-    </td>      
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,mysql,postgres,nodejs,bootstrap,git,linux,windows" />
+  </a>
+</p>
 
 ## 🔭 I’m Currently Working On
 
