@@ -67,6 +67,10 @@ I believe in lifelong learning and embrace opportunities both through formal edu
       <br>CSS
     </td>
     <td align="center" width="96">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="65" height="65"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="65" height="65"/>
       <br>Linux
     </td>
