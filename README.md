@@ -6,7 +6,7 @@ Passionate Computer Science student at **Warsaw University of Technology** 🎓,
 
 ## My Favorite Tools and Technologies ⚙️
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,mysql,postgres,nodejs,bootstrap,git,linux,windows&perline=8" />
   </a>
