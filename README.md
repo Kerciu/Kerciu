@@ -1,4 +1,4 @@
-## ✨ おはようございます! Bonjour! Guten Tag! ✨
+## Hi there! 👋
 
 ## About Me 🌟
 
