@@ -8,8 +8,8 @@ Passionate Computer Science student at **Warsaw University of Technology** 🎓,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react" />
-    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,nodejs,bootstrap,git,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,rust,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,django,nodejs,spring,mysql,postgres,docker,git" />
   </a>
 </p>
 
