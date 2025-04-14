@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 ## About Me 🌟
 
@@ -15,10 +15,11 @@ Passionate Computer Science student at **Warsaw University of Technology** 🎓,
 
 ## 🔭 I’m Currently Working On
 
-- **Enhancing Programming Skills**: Continuously developing my coding skills by tackling new and challenging projects. 💻
-- **Critical Thinking Development**: Focusing on improving my analytical and problem-solving abilities. 🧠
-- **Learning New Programming Languages**: Expanding my knowledge by exploring and mastering new programming languages. 🌐
-- **Exploring Emerging Technologies**: Keeping up with the latest advancements in technology and integrating them into my projects. 🚀
+- **Developing a CSV Translation Tool**: Building a semi-automatic CSV translation app using TypeScript, Django, MongoDB, and Rust for the machine learning module. 💻
+- **Backend Development for a Goodreads-like Web App**: Writing a Django backend integrated with PostgreSQL in a team-based project. 🧠
+- **Learning Rust (KZIP)**: Deepening my knowledge of Rust programming language with plans to build my own file compression tool from scratch. 🧠
+- **Exploring Docker & DevOps Basics**: Gaining hands-on experience with Docker and learning it to improve software deployment and containerization skills. 🚢
+- **Completing My 4th Semester in CS**: Balancing 38 ECTS credits with internship preparation, side projects, and personal development. 💪🏻
 
 ## How to Reach Me 📫
 
