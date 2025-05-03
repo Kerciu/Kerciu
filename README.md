@@ -26,8 +26,12 @@ Passionate Computer Science student @ **WUT** 🎓, driven by a love for technol
 - **Email**: [kacper.gorski.contact@gmail.com](mailto:kacper.gorski.contact@gmail.com)
 - **Twitter**: [@Kerciuu](https://twitter.com/Kerciuu)
 
-## Let's Connect! 🌐
+---
 
-Feel free to explore my repositories, check out my projects, and get in touch if you want to collaborate or discuss tech topics. I’m always open to new ideas and opportunities!
+Thanks for stopping by — feel free to explore my repos and reach out if you’re building something cool, want to geek out about tech, or collaborate! 💪
+
+_“Obsessed is just a word the lazy use to describe the dedicated.”_
+
+
 
 ---
