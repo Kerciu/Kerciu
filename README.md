@@ -1,8 +1,6 @@
-# Hi there! 👋
+# About Me 🌟
 
-## About Me 🌟
-
-Passionate Computer Science student at **Warsaw University of Technology** 🎓, driven by a love for technology and continuous learning. My journey in tech involves exploring diverse programming languages, delving into software engineering advancements, and tackling complex problem-solving challenges. 💡
+Passionate Computer Science student @ **WUT** 🎓, driven by a love for technology and continuous learning. My journey in tech involves exploring diverse programming languages, delving into software engineering advancements, and building mind-blowing full-stack applications. 🤯
 
 ## My Favorite Tools and Technologies ⚙️
 
