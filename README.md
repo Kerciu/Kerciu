@@ -6,9 +6,8 @@ Passionate Computer Science student @ **WUT** 🎓, driven by a love for technol
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,rust,html,css" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,spring,django" />
-    <img src="https://skillicons.dev/icons?i=git,docker,githubactions,mysql,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,rust,react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,django,git,docker,githubactions,mysql,postgres,mongodb,redis" />
   </a>
 </p>
 
