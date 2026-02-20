@@ -16,7 +16,7 @@ Passionate Computer Science student @ **Warsaw University of Technology** 🎓, 
 * **Junior Engineer @ Ringier Axel Springer Poland**: Delivering end-to-end features for millions of users. 🚀
 * **Warsaw University of Technology**: Crushing my 6th semester of Computer Science while pursuing a minor in Artificial Intelligence. 🎓
 * **Engineering Thesis**: Researching and building a high-performance semantic deduplication gateway using modern tech stacks. 🧠
-* **Cloud**: Deepening my hands-on experience with AWS infrastructure. ⚙️
+* **Cloud**: Deepening my hands-on experience and knowledge about Amazon Web Services infrastructure. ⚙️
 
 ## How to Reach Me 📫
 
